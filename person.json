@@ -1,0 +1,12 @@
+{
+    "name": "Eren",
+    "age": 19,
+    "adress": {
+        "Island": "Paradis",
+        "District": "Shiganshina"
+    },
+    "phones": [
+        "+140140140",
+        "+123456"
+    ]
+}
